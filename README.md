@@ -1,8 +1,4 @@
 # test-product-manager
 
 # pull request demo
-my name is ganzihao.
-Graduated from Northwest Normal University.
-I am a master graduate this year.
-Hope to get this job opportunity.
-Thanks！
+[甘子昊简历(1).pdf](https://github.com/ganzihao/test-product-manager/files/6745323/1.pdf)
